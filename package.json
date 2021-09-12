@@ -1,0 +1,11 @@
+{
+  "name": "hello-tapable",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:careyke/hello-tapable.git",
+  "author": "hermanke <hermanke@tencent.com>",
+  "license": "MIT",
+  "dependencies": {
+    "tapable": "^2.2.0"
+  }
+}
